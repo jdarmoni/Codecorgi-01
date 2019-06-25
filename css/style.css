@@ -1,0 +1,44 @@
+.container { 
+    width: 80%;
+    margin: auto;
+}
+.first-row {
+    display: flex;
+}
+
+.large-left {
+    background-color: blue;
+    width: 60%;
+    height: 175px;
+}
+.eru-text {
+    width: 25%;
+    margin-left: 3%;
+}
+.second-row {
+    display: flex;
+    margin-top: 2%; 
+}
+
+.second-row-column {
+    max-height: 300px;
+    width: 200px;
+    /* background-color: red; */
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.second-row-top {
+    height: 130px;
+    padding-bottom: 5px;
+    background-color: blue
+}
+.gap {
+    height: 50px;
+}
+
+.second-row-bottom {
+    height: 50px;
+    padding-top: 5px;
+    background-color: red;
+}
